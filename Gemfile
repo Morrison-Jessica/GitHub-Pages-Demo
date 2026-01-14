@@ -10,6 +10,8 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.4.1"
 gem "logger", "~> 1.4"
 gem "csv", "~> 3.3"
+gem "bigdecimal", "~> 3.1"
+
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
